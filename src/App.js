@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
 
+import Login from './Pages/Login'
+
 function App() {
   return (
-    <h1>Meu nome é Hugo</h1>
+    <Login></Login>
   );
 }
 
